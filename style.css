@@ -1,0 +1,151 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+/* SECTION 1*/
+
+.first {
+    width: 100%;
+    display: flex;
+    background: aliceblue;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+.second {
+    padding-right: 10px;
+}
+
+h1 {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 65px;
+    color: #121212;
+
+}
+
+p {
+
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+
+.bt {
+    width: 160px;
+    height: 56px;
+    background: #FF5959;
+    border-radius: 5px;
+    border-color: white;
+    font-size: 18px;
+    font-family: 'Inter';
+    font-weight: 600;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.img1 {
+    left: 24.03%;
+    right: 75.21%;
+    top: 13.02%;
+    bottom: 86.65%;
+    margin-left: 10px;
+
+}
+
+.bt2 {
+    width: 132px;
+    height: 28px;
+    left: 346px;
+    top: 506px;
+    text-decoration: none;
+}
+
+.third {
+
+    margin-left: 30px;
+    padding-bottom: 10px;
+    background-image: url("/Assignment01/images/Ellipse\ 257.png");
+
+}
+
+.four {
+    padding-top: 40px;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.five {
+    width: 100%;
+    text-align: center;
+
+}
+
+#six {
+    font-family: Inter;
+    font-size: 45px;
+    font-weight: 700;
+
+}
+
+#seven {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+
+}
+
+.eight {
+    display: inline-flex;
+
+}
+
+.point {
+    padding: 20px;
+    margin-left: 10px;
+    background-color: #c9c3c3;
+}
+
+.btn_now {
+    background-color: #FF5959;
+    padding: 10px;
+    color: white;
+    border: 0;
+    margin-top: 20px;
+
+}
+
+.nine {
+    background-color: #c9c3c3;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+
+.ten {
+    background-color: rgb(244, 194, 194);
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+
+.eleven {
+    background-color: #eddd78;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+
+.twelve {
+    padding: 40px;
+    background-color: blanchedalmond;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
